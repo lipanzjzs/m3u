@@ -1,45 +1,48 @@
 
 # 仓库简介
 #### 个人爱好，收集整合！佛系更新…
+* [Telegram 群「传送门」](https://t.me/Y_anGGGGGG)
+>软件下载,资源集合,没其他东西 (后期可能会分享喜欢的东西)...
+* [疑难杂症「传送门」](https://github.com/YanG-1989/m3u/issues)
+>有问题请留言,基本上置顶已经解答了所有的问题... 
 ---
 ### 推荐软件「你说了算」  
 * IOS系统  
 >APTV「多端」  
-* 安卓系统  
->TiviMate「电视端」  
+* 安卓系统
+>OK影视「双端」  
+>天光云影「电视端」  
+>TiviMate「电视端」   
+>OTT「电视端」   
 >Televizo「手机端」  
-* Win系统  
+* Win系统
 >PotPlayer「电脑端」  
->RedStar 「电脑端」  
->QMPlay2 「电脑端」  
+>QMPlay2「电脑端」  
+>ZyPlayer「电脑端」   
 ---
-### 订阅地址「懒人必备」 
-* [Gather.m3u](https://tv.iill.top/m3u/Gather)  
-> 完整版订阅地址「请勿直接打开」...
-* [Adult.m3u](https://tv.iill.top/m3u/Adult)  
-> 佛系维护...
-* [Adult-1.m3u 不再提供订阅,文件保存在TG](https://t.me/WangPanBOT?start=file23fb4c49257f2457)  
-> 集合大佬们的资源,进行整合去重去失效...
+### 订阅地址「懒人必备」   
+* [Gather.m3u「精简版」](https://bit.ly/IPTV-Gather)---([修改 hosts 方法](https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/hosts.txt))  
+> 订阅地址「GitHub版」,ipv6·源为主...    
+* [Gather.m3u「完整版」](https://tv.iill.top/m3u/Gather)  
+> 订阅地址「VPS版」,请勿直接打开...  
 ---
 ### 直播集合「一切随缘」  
-* [Live.m3u](https:///tv.iill.top/m3u/Live)  
->多平台订阅集合「收集网友喜欢的直播间...」
-* [直播M3U生成器](https://m.iill.top)  
->定制自己的直播M3U列表「可以分享自己喜欢的主播..」
+* [Live.m3u「多平台」](https:///tv.iill.top/m3u/Live)  
+>直播平台 订阅地址「收集网友喜欢的直播间...」
+* [个性化 M3U 定制](https://m.iill.top)  
+>定制自己的直播 M3U 列表「分享自己喜欢的主播..」
 ---
-### 垃圾话语录「历史记录」     
-* 2024.6.14    
->维护 Gather「修复 咪咕IPV6...」  
-* 2024.6.16  
->维护 Live「增加 BIGO 平台..」  
->维护 Gather「修复 代理源在APTV中,预览图显示错误问题...」
-* 2024.7.15  
->维护 订阅URL 「因为域名被多处屏蔽换一个...」
-* 2024.7.24  
->维护 Gather「新增·咪咕「奥运」分组」  
-* 2024.8.23  
->维护 Live「优化 在线准确率·修复 YouTube 代理」  
->维护 Gather「新增 凤凰三台·720P」  
+### 垃圾话语录「历史记录」  
+* 2024.11.30 
+>维护 Live「增加 Twitch 直播代理」
+* 2024.11.25
+>维护 Gather「完整版」「增加 公益AKTV·源」 
+* 2024.11.23  
+>维护 Live「增加 YouTube 限制 / 修复 虎牙 断流」  
+* 2024.11.21   
+>维护 Live「修复 YY 直播代理」  
+* 2024.11.18
+>维护 Gather「完整版」「替换 IPV6·源-山东」  
 ---
 
 ### 声明「佛曰需要」
