@@ -11,18 +11,20 @@
 >APTV「多端」  
 * 安卓系统
 >OK影视「双端」  
->天光云影「电视端」  
+>天光云影「电视端」   
 >TiviMate「电视端」   
 >OTT「电视端」   
 >Televizo「手机端」  
 * Win系统
+>VideoPlayer「浏览器」  
+>SFVIP-Player「电脑端」  
 >PotPlayer「电脑端」  
 >QMPlay2「电脑端」  
 >ZyPlayer「电脑端」   
 ---
 ### 订阅地址「懒人必备」   
-* [Gather.m3u「精简版」](https://bit.ly/IPTV-Gather)---([修改 hosts 方法](https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/hosts.txt))  
-> 订阅地址「GitHub版」,ipv6·源为主...    
+* [Gather.m3u「精简版」](https://bit.ly/IPTV-Gather)  
+> 订阅地址「GitHub版」,IPV6·源为主...    
 * [Gather.m3u「完整版」](https://tv.iill.top/m3u/Gather)  
 > 订阅地址「VPS版」,请勿直接打开...  
 ---
@@ -33,16 +35,20 @@
 >定制自己的直播 M3U 列表「分享自己喜欢的主播..」
 ---
 ### 垃圾话语录「历史记录」  
-* 2024.11.30 
->维护 Live「增加 Twitch 直播代理」
-* 2024.11.25
->维护 Gather「完整版」「增加 公益AKTV·源」 
-* 2024.11.23  
->维护 Live「增加 YouTube 限制 / 修复 虎牙 断流」  
-* 2024.11.21   
->维护 Live「修复 YY 直播代理」  
-* 2024.11.18
->维护 Gather「完整版」「替换 IPV6·源-山东」  
+* 2025.2.8  
+>维护 Gather「修复 •部分源」  
+>维护 Live「修复生成错误 BUG」  
+* 2025.2.4  
+>重启 Gather「删除 •IPV6 源 / •國際「匯集」」  
+>重启 Live「备份文件为1月1号 / 更新周期改为 30 分钟」  
+* 2025.1.10     
+>维护 Gather「修复 •IPV6 源 / 删除 埋堆堆」  
+>新增 Migu「提取 咪咕·IPV4」---([修改 hosts 方法](https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/hosts.txt))   
+* 2025.1.4  
+>维护 Gather「GitHub」「维护 IPV6·失效源」  
+>维护 Gather「完整版」「维护 IPV6·源-重整」  
+* 2024.12.28 
+>维护 Live「优化 抖音 在线判断 / 更改主播有效期为 30 天」  
 ---
 
 ### 声明「佛曰需要」
