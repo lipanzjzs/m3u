@@ -24,14 +24,12 @@
 ---
 ### 订阅地址「懒人必备」   
 * [Gather.m3u「精简版」](https://bit.ly/IPTV-Gather)  
-> 订阅地址「GitHub版」,IPV6·源为主...    
-* [Gather.m3u「完整版」](https://tv.iill.top/m3u/Gather)  
-> 订阅地址「VPS版」,请勿直接打开...  
+> 订阅地址「GitHub版」,大街源为主...    
 ---
 ### 直播集合「一切随缘」  
-* [Live.m3u「多平台」](https://m.iill.top/Live.m3u)  
+* [Live.m3u「多平台」](https://live.yang-1989.eu.org/Live.m3u)  
 >直播平台 订阅地址「收集网友喜欢的直播间...」
-* [个性化 M3U 定制](https://m.iill.top)  
+* [个性化 M3U 定制](https://live.yang-1989.eu.org)  
 >定制自己的直播 M3U 列表「分享自己喜欢的主播..」
 ---
 ### 垃圾话语录「历史记录」 
